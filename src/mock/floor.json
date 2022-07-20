@@ -1,0 +1,130 @@
+[
+    {
+        "id": "001",
+        "name": "热门闲置",
+        "keywords": [
+            "宿舍用洗衣机",
+            "专业课教材",
+            "公共课教材",
+            "学习资料",
+            "生活用品",
+            "床上用品"
+        ],
+        "imgUrl": "/images/floor-1-1.png",
+        "navList": [
+            {
+                "url": "#",
+                "text": "热门"
+            },
+            {
+                "url": "#",
+                "text": "闲置旧书"
+            },
+            {
+                "url": "#",
+                "text": "生活电器"
+            },
+            {
+                "url": "#",
+                "text": "洗漱用品"
+            },
+            {
+                "url": "#",
+                "text": "闲置美妆"
+            },
+            {
+                "url": "#",
+                "text": "电动车"
+            },
+            {
+                "url": "#",
+                "text": "宿舍收纳"
+            }
+        ],
+        "carouselList": [
+            {
+                "id": "0011",
+                "imgUrl": "/images/floor-1-b01.png"
+            },
+            {
+                "id": "0012",
+                "imgUrl": "/images/floor-1-b02.png"
+            },
+            {
+                "id": "0013",
+                "imgUrl": "/images/floor-1-b03.png"
+            }
+        ],
+        "recommendList": [
+            "/images/floor-1-2.png",
+            "/images/floor-1-3.png",
+            "/images/floor-1-5.png",
+            "/images/floor-1-6.png"
+        ],
+        "bigImg": "/images/floor-1-4.png"
+    },
+    {
+        "id": "002",
+        "name": "校园生活",
+        "keywords": [
+            "校园网卡",
+            "各类门票",
+            "新鲜水果",
+            "闲置乐器",
+            "闲置衣物",
+            "宿舍好物"
+        ],
+        "imgUrl": "/images/floor-1-1.png",
+        "navList": [
+            {
+                "url": "#",
+                "text": "生活必需品"
+            },
+            {
+                "url": "#",
+                "text": "食品"
+            },
+            {
+                "url": "#",
+                "text": "饮品"
+            },
+            {
+                "url": "#",
+                "text": "电脑键盘鼠标"
+            },
+            {
+                "url": "#",
+                "text": "球拍"
+            },
+            {
+                "url": "#",
+                "text": "背包"
+            },
+            {
+                "url": "#",
+                "text": "球类"
+            }
+        ],
+        "carouselList": [
+            {
+                "id": "0011",
+                "imgUrl": "/images/floor-1-b01.png"
+            },
+            {
+                "id": "0012",
+                "imgUrl": "/images/floor-1-b02.png"
+            },
+            {
+                "id": "0013",
+                "imgUrl": "/images/floor-1-b03.png"
+            }
+        ],
+        "recommendList": [
+            "/images/floor-1-2.png",
+            "/images/floor-1-3.png",
+            "/images/floor-1-5.png",
+            "/images/floor-1-6.png"
+        ],
+        "bigImg": "/images/floor-1-4.png"
+    }
+]
